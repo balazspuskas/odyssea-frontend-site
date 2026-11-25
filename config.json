@@ -1,0 +1,7 @@
+{
+  "_comment": "Futásidejű konfiguráció (spec 3.9.3). A frontend és a backend AZONOS originon van (az nginx proxyzza a /api-t), ezért az apiBaseUrl üres = same-origin.",
+  "apiBaseUrl": "",
+  "appName": "Odyssea Soul Sailing",
+  "version": "0.1.0",
+  "features": {}
+}
